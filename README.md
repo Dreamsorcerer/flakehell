@@ -26,7 +26,7 @@ It's a [Flake8](https://gitlab.com/pycqa/flake8) wrapper to make it cool.
 
 ## Installation
 
-```bash
+```bash 
 python3 -m pip install --user flakehell
 ```
 
